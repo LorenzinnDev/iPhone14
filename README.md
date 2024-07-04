@@ -1,3 +1,2 @@
-# iPhone14
-Um celular da apple desenhado em HTML5 e CSS3;
-(Não há back-end)
+# iPhone 14 HTML5 CSS3
+Criar este portfólio foi um projeto gratificante que me permitiu mostrar minhas habilidades de maneira a mostrar minha criatividade.
