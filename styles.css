@@ -1,0 +1,245 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #ffffffa1;
+}
+
+.bordas {
+    width: 350px;
+    height: 700px;
+    background-image:url(https://macmagazine.com.br/wp-content/uploads/2022/09/12-iPhone-14-wallpaper-1.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 70px auto;
+    border-radius: 65px;
+    border: solid 13px black;
+    box-shadow: rgba(0, 0, 0, 0.705) 0px 30px 90px;
+}
+
+p {
+    font-family: "Quicksand", sans-serif;
+    top: 50%;
+    width: 250px;
+    transform: translate(25.9%,-2300%);
+    font-size: 20px;
+    color: white;
+
+}
+
+h1 {
+    font-family: "Quicksand", sans-serif;
+    top: 50%;
+    width: 200px;
+    transform: translate(40%,-476%);
+    font-size: 100px;
+    color: white;
+}
+
+.botao1 {
+    width: 5px;
+    height: 100px;
+    background-color: rgb(29, 41, 71);
+    margin: 362px;
+    margin-top: -1170px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.botao2 {
+    width: 5px;
+    height: 70px;
+    background-color: rgb(29, 41, 71);
+    margin: -16px;
+    margin-top: -500px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    position: absolute;
+
+}
+
+.botao3 {
+    width: 5px;
+    height: 70px;
+    background-color: rgb(29, 41, 71);
+    margin: -16px;
+    margin-top: -415px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    position: absolute;
+
+}
+
+.dinamic_island {
+    width: 160px;
+    height: 30px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px ;
+    background-color: black;
+    margin: 0 auto;
+    position: relative;
+}
+
+.camera {
+    display: inline-block;
+    background-color: rgb(55, 55, 122);
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    margin: 3% 20px;
+}
+
+
+.bateria {
+    width: 25px;
+    height: 12.5px;
+    background-color: rgba(255, 255, 255, 0.416);
+    margin: -15px 125%;
+    border-radius: 3px;
+}
+
+.bateria1 {
+    width: 3px;
+    height: 3px;
+    background-color: rgba(255, 255, 255, 0.416);
+    margin: 7px 139.6%;
+    border-radius: 50%;
+}
+
+.bateria2 {
+    width: 10px;
+    height: 12.5px;
+    background-color: rgb(248, 255, 32);
+    border-radius: 3px;
+}
+
+.linha {
+    width: 140px;
+    height: 5px;
+    background-color: white;
+    border-radius: 30px;
+    margin: 660px auto;
+}
+
+.bordas_traseiras {
+    background-color:rgb(19, 19, 60);
+    width: 363px;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 70px auto;
+    border-radius: 65px;
+    border: solid 5px rgba(69, 69, 124, 0.421);
+    box-shadow: rgba(0, 0, 0, 0.705) 0px 30px 90px;
+}
+
+img {
+    width: 80px;
+    margin: 290px 40%;
+    position: relative;
+}
+
+.cameras_traseiras {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(41, 46, 79);
+    margin: 20px;
+    margin-top: -650px; 
+    border-radius: 45px;
+    position: absolute;
+    box-shadow: rgba(0, 0, 0, 0.249) 0px 30px 90px;
+    border: solid 1px black;
+}
+
+.camera1 {
+    width: 70px;
+    height: 70px;
+    background-color: black;
+    border-radius: 100%;
+    margin: 4px;
+    margin-top: 5px;
+    border: solid 4px rgb(54, 54, 54);
+    box-shadow: rgba(0, 0, 0, 0.335) 0px 5px 15px 0px;
+}
+
+.camera2 {
+    width: 70px;
+    height: 70px;
+    background-color: black;
+    border-radius: 100%;
+    margin: 68px;
+    margin-top: -20px;
+    border: solid 4px rgb(53, 53, 53);
+    box-shadow: rgba(0, 0, 0, 0.334) 0px 5px 15px 0px;
+
+}
+
+.mic {
+    width: 12px;
+    height: 12px;
+    background-color: rgb(92, 92, 92);
+    border-radius: 100%;
+    margin: 30px;
+    margin-top: -105px;
+
+}
+
+.flash {
+    width: 30px;
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 100%;
+    margin: 100px;
+    margin-top: -135px;
+
+}
+
+.botao4 {
+    width: 5px;
+    height: 100px;
+    background-color: rgb(29, 41, 71);
+    margin: -28px;
+    margin-top: 130px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.botao5 {
+    width: 5px;
+    height: 70px;
+    background-color: rgb(29, 41, 71);
+    margin: 345px;
+    margin-top: -50px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+
+}
+
+.botao6 {
+    width: 5px;
+    height: 70px;
+    background-color: rgb(29, 41, 71);
+    margin: 345px;
+    margin-top: -498px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.36);
+    color: rgb(255, 255, 255);
+    font-family: 'Questrial', sans-serif;
+    font-size: 3vh;
+    font-weight: 300;
+    padding: 20px;
+    text-align: center;
+    margin-top: 100px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+
+}
+
